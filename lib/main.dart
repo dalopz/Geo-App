@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
 Future<void> _pedirDatosViaje() async {
-  // Asegúrate de que _medioTransporte esté inicializado antes de abrir el diálogo
+
   String? medioTransporteSeleccionado = _medioTransporte;
 
   final result = await showDialog<String>(
@@ -124,10 +124,10 @@ Future<void> _pedirDatosViaje() async {
               children: [
                 DropdownButton<String>(
                   hint: const Text('Medio de transporte'),
-                  value: medioTransporteSeleccionado, // Muestra la selección actual
+                  value: medioTransporteSeleccionado, 
                   onChanged: (String? newValue) {
                     setState(() {
-                      medioTransporteSeleccionado = newValue; // Actualiza el valor seleccionado
+                      medioTransporteSeleccionado = newValue; 
                     });
                   },
                   items: <String>['Ruta empresarial', 'Carro', 'Moto', 'Caminata']
@@ -145,14 +145,14 @@ Future<void> _pedirDatosViaje() async {
         actions: <Widget>[
           TextButton(
             onPressed: () {
-              Navigator.of(context).pop(); // Cerrar el diálogo
+              Navigator.of(context).pop(); 
             },
             child: const Text('Cancelar'),
           ),
           TextButton(
             onPressed: () {
               if (medioTransporteSeleccionado != null) {
-                _medioTransporte = medioTransporteSeleccionado; // Actualiza el estado solo si hay una selección
+                _medioTransporte = medioTransporteSeleccionado;
                 Navigator.of(context).pop('success');
               }
             },
@@ -171,19 +171,38 @@ Future<void> _pedirDatosViaje() async {
 
 
 
-  void iniciarViaje() {
-    setState(() {
-      viajeIniciado = true;
-      _identificadorViaje = DateTime.now().millisecondsSinceEpoch.toString();
-      puntoConsecutivo = 1;
-    });
-
-    _timer = Timer.periodic(const Duration(seconds: 5), (timer) {
-      obtenerUbicacionPeriodica();
-    });
-
-    obtenerUbicacionPeriodica();
+void iniciarViaje() {
+  if (_medioTransporte == null) {
+    return;
   }
+
+  setState(() {
+    viajeIniciado = true;
+    _identificadorViaje = DateTime.now().millisecondsSinceEpoch.toString();
+    puntoConsecutivo = 1;
+  });
+
+  int segundosIntervalo;
+  switch (_medioTransporte) {
+    case 'Caminata':
+      segundosIntervalo = 5;
+      break;
+    case 'Carro':
+    case 'Moto':
+    case 'Ruta empresarial':
+      segundosIntervalo = 10;
+      break;
+    default:
+      segundosIntervalo = 10;
+      break;
+  }
+
+  _timer = Timer.periodic(Duration(seconds: segundosIntervalo), (timer) {
+    obtenerUbicacionPeriodica();
+  });
+
+  obtenerUbicacionPeriodica();
+}
 
   void detenerViaje() {
     setState(() {
@@ -302,7 +321,7 @@ Future<void> _pedirDatosViaje() async {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text('${widget.title} - Bienvenido, $_nombreUsuario'), // Saludo en el AppBar
+        title: Text('${widget.title} - Bienvenido, $_nombreUsuario'),
       ),
       body: Center(
         child: Column(

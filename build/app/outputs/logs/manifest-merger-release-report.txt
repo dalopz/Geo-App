@@ -1,0 +1,487 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:7:5-38:19
+MERGED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-34:19
+MERGED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:5-34:19
+MERGED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-15:19
+MERGED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-35:19
+MERGED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-35:19
+MERGED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\c0d8b516ed7221b9d33b2f6e4044a80c\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\c0d8b516ed7221b9d33b2f6e4044a80c\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\06c2ef71376594cb4a368127f14c22ae\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\06c2ef71376594cb4a368127f14c22ae\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\1187f525e5ca3a43d1c1ce4f15441bc3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\1187f525e5ca3a43d1c1ce4f15441bc3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:8:9-33
+	android:icon
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:10:9-43
+	android:name
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:9:9-42
+manifest
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [:android_intent_plus] C:\David Lopez Cuervo\app_locator\build\android_intent_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-36:12
+MERGED from [:flutter_local_notifications] C:\David Lopez Cuervo\app_locator\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-17:12
+MERGED from [:media_store_plus] C:\David Lopez Cuervo\app_locator\build\media_store_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:wakelock_plus] C:\David Lopez Cuervo\app_locator\build\wakelock_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:package_info_plus] C:\David Lopez Cuervo\app_locator\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\David Lopez Cuervo\app_locator\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] C:\David Lopez Cuervo\app_locator\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-37:12
+MERGED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\c0d8b516ed7221b9d33b2f6e4044a80c\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\62290a9d66ff7b0ef7bcdbf0624ccc7c\transformed\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Dalocu\.gradle\caches\transforms-3\fc23258cbb62e533e1cc3614528f40c9\transformed\browser-1.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\347079fdf6986ab78d3847d813fdfe79\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:17:1-21:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\06c2ef71376594cb4a368127f14c22ae\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Dalocu\.gradle\caches\transforms-3\0a457e3f881607ce70952236c08fcbc5\transformed\fragment-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\Dalocu\.gradle\caches\transforms-3\40de23cb2593a7bdbf9b79d3814dbba4\transformed\jetified-activity-1.8.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\e173160a7fb3ad0e9391711d2e886171\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2f00d0cf5878a5cff81ae41f31d58ead\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\3468f84cf17452b695162d3717c4c9c7\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\848f2416e8cbc8061226a2744639cc5f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\bbb38cfb05074b6901339ff39ad68531\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2d38e8f32151dad177eef7efc48f2b13\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\baf3a0043cbbac581fc034bc4c1a7e03\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Dalocu\.gradle\caches\transforms-3\0c1e8dd21eeb4475f451ff090d7ed0d1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\1edc715910bc7c9a2387c3185fe38530\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a1bc8c9fa2d88909fd08cbff66e767d9\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\afc0d8fd61741debd60624caedbf883b\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Dalocu\.gradle\caches\transforms-3\a06fe27589236e928b52a32c62bdf08e\transformed\documentfile-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\4a9bdc31bf1c1076d2dcdf66196c7821\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\3f6f2b2a1b218b4b9702c5d80ee32d23\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\1187f525e5ca3a43d1c1ce4f15441bc3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a4a743b859c5be4dc3383fd5914cf79b\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\45948c4795b8bb48d74fa03d5c28d8b6\transformed\jetified-core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2fc00dc287a730aae5f7b25ff300b2c8\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+	package
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:2:5-80
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:2:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:3:5-79
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:3:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:4:5-80
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:5:5-78
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:5:22-76
+queries
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:41:21-70
+data
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+MERGED from [:android_intent_plus] C:\David Lopez Cuervo\app_locator\build\android_intent_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:android_intent_plus] C:\David Lopez Cuervo\app_locator\build\android_intent_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] C:\David Lopez Cuervo\app_locator\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_local_notifications] C:\David Lopez Cuervo\app_locator\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:media_store_plus] C:\David Lopez Cuervo\app_locator\build\media_store_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:media_store_plus] C:\David Lopez Cuervo\app_locator\build\media_store_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock_plus] C:\David Lopez Cuervo\app_locator\build\wakelock_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:wakelock_plus] C:\David Lopez Cuervo\app_locator\build\wakelock_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\David Lopez Cuervo\app_locator\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:package_info_plus] C:\David Lopez Cuervo\app_locator\build\package_info_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\David Lopez Cuervo\app_locator\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\David Lopez Cuervo\app_locator\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] C:\David Lopez Cuervo\app_locator\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] C:\David Lopez Cuervo\app_locator\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\c0d8b516ed7221b9d33b2f6e4044a80c\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\c0d8b516ed7221b9d33b2f6e4044a80c\transformed\jetified-play-services-location-21.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\62290a9d66ff7b0ef7bcdbf0624ccc7c\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\62290a9d66ff7b0ef7bcdbf0624ccc7c\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Dalocu\.gradle\caches\transforms-3\fc23258cbb62e533e1cc3614528f40c9\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.browser:browser:1.8.0] C:\Users\Dalocu\.gradle\caches\transforms-3\fc23258cbb62e533e1cc3614528f40c9\transformed\browser-1.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\347079fdf6986ab78d3847d813fdfe79\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [androidx.window:window-java:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\347079fdf6986ab78d3847d813fdfe79\transformed\jetified-window-java-1.2.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\06c2ef71376594cb4a368127f14c22ae\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] C:\Users\Dalocu\.gradle\caches\transforms-3\06c2ef71376594cb4a368127f14c22ae\transformed\jetified-play-services-tasks-18.1.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Dalocu\.gradle\caches\transforms-3\0a457e3f881607ce70952236c08fcbc5\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.7.1] C:\Users\Dalocu\.gradle\caches\transforms-3\0a457e3f881607ce70952236c08fcbc5\transformed\fragment-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\Dalocu\.gradle\caches\transforms-3\40de23cb2593a7bdbf9b79d3814dbba4\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] C:\Users\Dalocu\.gradle\caches\transforms-3\40de23cb2593a7bdbf9b79d3814dbba4\transformed\jetified-activity-1.8.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\e173160a7fb3ad0e9391711d2e886171\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\e173160a7fb3ad0e9391711d2e886171\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2f00d0cf5878a5cff81ae41f31d58ead\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2f00d0cf5878a5cff81ae41f31d58ead\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\3468f84cf17452b695162d3717c4c9c7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\3468f84cf17452b695162d3717c4c9c7\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\848f2416e8cbc8061226a2744639cc5f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\848f2416e8cbc8061226a2744639cc5f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\bbb38cfb05074b6901339ff39ad68531\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\bbb38cfb05074b6901339ff39ad68531\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2d38e8f32151dad177eef7efc48f2b13\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2d38e8f32151dad177eef7efc48f2b13\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\baf3a0043cbbac581fc034bc4c1a7e03\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\baf3a0043cbbac581fc034bc4c1a7e03\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Dalocu\.gradle\caches\transforms-3\0c1e8dd21eeb4475f451ff090d7ed0d1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Dalocu\.gradle\caches\transforms-3\0c1e8dd21eeb4475f451ff090d7ed0d1\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\1edc715910bc7c9a2387c3185fe38530\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\1edc715910bc7c9a2387c3185fe38530\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a1bc8c9fa2d88909fd08cbff66e767d9\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a1bc8c9fa2d88909fd08cbff66e767d9\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\afc0d8fd61741debd60624caedbf883b\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\afc0d8fd61741debd60624caedbf883b\transformed\jetified-core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Dalocu\.gradle\caches\transforms-3\a06fe27589236e928b52a32c62bdf08e\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.1] C:\Users\Dalocu\.gradle\caches\transforms-3\a06fe27589236e928b52a32c62bdf08e\transformed\documentfile-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\4a9bdc31bf1c1076d2dcdf66196c7821\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\4a9bdc31bf1c1076d2dcdf66196c7821\transformed\jetified-tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\3f6f2b2a1b218b4b9702c5d80ee32d23\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\3f6f2b2a1b218b4b9702c5d80ee32d23\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\1187f525e5ca3a43d1c1ce4f15441bc3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\1187f525e5ca3a43d1c1ce4f15441bc3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a4a743b859c5be4dc3383fd5914cf79b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a4a743b859c5be4dc3383fd5914cf79b\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\45948c4795b8bb48d74fa03d5c28d8b6\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] C:\Users\Dalocu\.gradle\caches\transforms-3\45948c4795b8bb48d74fa03d5c28d8b6\transformed\jetified-core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2fc00dc287a730aae5f7b25ff300b2c8\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\Dalocu\.gradle\caches\transforms-3\2fc00dc287a730aae5f7b25ff300b2c8\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml
+activity#com.example.locator_app.MainActivity
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:11:9-32:20
+	android:launchMode
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:13:13-36
+	android:configChanges
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:17:13-163
+	android:theme
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:taskAffinity
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:12:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:24:13-27:17
+	android:resource
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:26:15-52
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:25:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:29:17-68
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:30:17-76
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:30:27-74
+meta-data#flutterEmbedding
+ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:35:9-37:33
+	android:value
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:37:13-30
+	android:name
+		ADDED from C:\David Lopez Cuervo\app_locator\android\app\src\main\AndroidManifest.xml:36:13-44
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:22-65
+service#id.flutter.flutter_background_service.BackgroundService
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:9-18:44
+	android:enabled
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-36
+	android:stopWithTask
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-41
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-83
+receiver#id.flutter.flutter_background_service.WatchdogReceiver
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:20:9-23:39
+	android:enabled
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:22:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:21:13-82
+receiver#id.flutter.flutter_background_service.BootReceiver
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:24:9-33:20
+	android:enabled
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:25:13-78
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:29:17-79
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:29:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:30:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:31:17-84
+	android:name
+		ADDED from [:flutter_background_service_android] C:\David Lopez Cuervo\app_locator\build\flutter_background_service_android\intermediates\merged_manifest\release\AndroidManifest.xml:31:25-81
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] C:\David Lopez Cuervo\app_locator\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] C:\David Lopez Cuervo\app_locator\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-63
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from [:flutter_local_notifications] C:\David Lopez Cuervo\app_locator\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:5-77
+	android:name
+		ADDED from [:flutter_local_notifications] C:\David Lopez Cuervo\app_locator\build\flutter_local_notifications\intermediates\merged_manifest\release\AndroidManifest.xml:10:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-14:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\David Lopez Cuervo\app_locator\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-77
+provider#dev.fluttercommunity.plus.share.ShareFileProvider
+ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:15:9-23:20
+	android:grantUriPermissions
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:19:13-47
+	android:authorities
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:17:13-74
+	android:exported
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-77
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:20:13-22:68
+	android:resource
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:22:17-65
+	android:name
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:21:17-67
+receiver#dev.fluttercommunity.plus.share.SharePlusPendingIntent
+ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:29:13-82
+intent-filter#action:name:EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:31:13-33:29
+action#EXTRA_CHOSEN_COMPONENT
+ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:17-65
+	android:name
+		ADDED from [:share_plus] C:\David Lopez Cuervo\app_locator\build\share_plus\intermediates\merged_manifest\release\AndroidManifest.xml:32:25-62
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\David Lopez Cuervo\app_locator\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.2.0] C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\a31dd384988cecb2af572646f5296f0d\transformed\jetified-play-services-base-18.3.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] C:\Users\Dalocu\.gradle\caches\transforms-3\652591e4fdbaa218e1ffc0cdcbc12675\transformed\jetified-play-services-basement-18.3.0\AndroidManifest.xml:22:13-58
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.locator_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.locator_app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

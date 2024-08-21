@@ -1,0 +1,1 @@
+ C:\\David\ Lopez\ Cuervo\\app_locator\\.dart_tool\\flutter_build\\395617a47e7e7f2c9f232cd94d4f234f\\native_assets.yaml: 

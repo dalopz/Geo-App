@@ -1,0 +1,28 @@
+com.snnafi.media_store_plus-pngs-0 C:\David Lopez Cuervo\app_locator\build\media_store_plus\generated\res\pngs\release
+com.snnafi.media_store_plus-resValues-1 C:\David Lopez Cuervo\app_locator\build\media_store_plus\generated\res\resValues\release
+com.snnafi.media_store_plus-rs-2 C:\David Lopez Cuervo\app_locator\build\media_store_plus\generated\res\rs\release
+com.snnafi.media_store_plus-mergeReleaseResources-3 C:\David Lopez Cuervo\app_locator\build\media_store_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.snnafi.media_store_plus-mergeReleaseResources-4 C:\David Lopez Cuervo\app_locator\build\media_store_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.snnafi.media_store_plus-merged_res-5 C:\David Lopez Cuervo\app_locator\build\media_store_plus\intermediates\merged_res\release
+com.snnafi.media_store_plus-fragment-1.7.1-6 C:\Users\Dalocu\.gradle\caches\transforms-3\0a457e3f881607ce70952236c08fcbc5\transformed\fragment-1.7.1\res
+com.snnafi.media_store_plus-jetified-savedstate-1.2.1-7 C:\Users\Dalocu\.gradle\caches\transforms-3\0c1e8dd21eeb4475f451ff090d7ed0d1\transformed\jetified-savedstate-1.2.1\res
+com.snnafi.media_store_plus-lifecycle-runtime-2.7.0-8 C:\Users\Dalocu\.gradle\caches\transforms-3\1edc715910bc7c9a2387c3185fe38530\transformed\lifecycle-runtime-2.7.0\res
+com.snnafi.media_store_plus-lifecycle-viewmodel-2.7.0-9 C:\Users\Dalocu\.gradle\caches\transforms-3\2d38e8f32151dad177eef7efc48f2b13\transformed\lifecycle-viewmodel-2.7.0\res
+com.snnafi.media_store_plus-jetified-annotation-experimental-1.4.0-10 C:\Users\Dalocu\.gradle\caches\transforms-3\2fc00dc287a730aae5f7b25ff300b2c8\transformed\jetified-annotation-experimental-1.4.0\res
+com.snnafi.media_store_plus-jetified-window-java-1.2.0-11 C:\Users\Dalocu\.gradle\caches\transforms-3\347079fdf6986ab78d3847d813fdfe79\transformed\jetified-window-java-1.2.0\res
+com.snnafi.media_store_plus-jetified-activity-1.8.1-12 C:\Users\Dalocu\.gradle\caches\transforms-3\40de23cb2593a7bdbf9b79d3814dbba4\transformed\jetified-activity-1.8.1\res
+com.snnafi.media_store_plus-jetified-core-1.0.0-13 C:\Users\Dalocu\.gradle\caches\transforms-3\45948c4795b8bb48d74fa03d5c28d8b6\transformed\jetified-core-1.0.0\res
+com.snnafi.media_store_plus-jetified-tracing-1.2.0-14 C:\Users\Dalocu\.gradle\caches\transforms-3\4a9bdc31bf1c1076d2dcdf66196c7821\transformed\jetified-tracing-1.2.0\res
+com.snnafi.media_store_plus-jetified-profileinstaller-1.3.1-15 C:\Users\Dalocu\.gradle\caches\transforms-3\57e4e9854e22cd150509537e6bf034e7\transformed\jetified-profileinstaller-1.3.1\res
+com.snnafi.media_store_plus-jetified-window-1.2.0-16 C:\Users\Dalocu\.gradle\caches\transforms-3\6566af7ccfc9069f4be2ad9eef429ea6\transformed\jetified-window-1.2.0\res
+com.snnafi.media_store_plus-jetified-lifecycle-livedata-core-ktx-2.7.0-17 C:\Users\Dalocu\.gradle\caches\transforms-3\848f2416e8cbc8061226a2744639cc5f\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.snnafi.media_store_plus-jetified-lifecycle-viewmodel-savedstate-2.7.0-18 C:\Users\Dalocu\.gradle\caches\transforms-3\a1bc8c9fa2d88909fd08cbff66e767d9\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.snnafi.media_store_plus-core-runtime-2.2.0-19 C:\Users\Dalocu\.gradle\caches\transforms-3\a4a743b859c5be4dc3383fd5914cf79b\transformed\core-runtime-2.2.0\res
+com.snnafi.media_store_plus-jetified-core-ktx-1.13.1-20 C:\Users\Dalocu\.gradle\caches\transforms-3\afc0d8fd61741debd60624caedbf883b\transformed\jetified-core-ktx-1.13.1\res
+com.snnafi.media_store_plus-lifecycle-livedata-core-2.7.0-21 C:\Users\Dalocu\.gradle\caches\transforms-3\baf3a0043cbbac581fc034bc4c1a7e03\transformed\lifecycle-livedata-core-2.7.0\res
+com.snnafi.media_store_plus-lifecycle-livedata-2.7.0-22 C:\Users\Dalocu\.gradle\caches\transforms-3\bbb38cfb05074b6901339ff39ad68531\transformed\lifecycle-livedata-2.7.0\res
+com.snnafi.media_store_plus-core-1.13.1-23 C:\Users\Dalocu\.gradle\caches\transforms-3\be23fe015bc87459537c36b7c545e5d2\transformed\core-1.13.1\res
+com.snnafi.media_store_plus-jetified-startup-runtime-1.1.1-24 C:\Users\Dalocu\.gradle\caches\transforms-3\c3c38a84961feb855db443db6a75e1bd\transformed\jetified-startup-runtime-1.1.1\res
+com.snnafi.media_store_plus-jetified-lifecycle-process-2.7.0-25 C:\Users\Dalocu\.gradle\caches\transforms-3\ca68e49e178e0f9c18369d268d28854d\transformed\jetified-lifecycle-process-2.7.0\res
+com.snnafi.media_store_plus-main-26 C:\Users\Dalocu\AppData\Local\Pub\Cache\hosted\pub.dev\media_store_plus-0.1.2\android\src\main\res
+com.snnafi.media_store_plus-release-27 C:\Users\Dalocu\AppData\Local\Pub\Cache\hosted\pub.dev\media_store_plus-0.1.2\android\src\release\res
