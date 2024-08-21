@@ -1,0 +1,6 @@
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
+*.dill filter=lfs diff=lfs merge=lfs -text
+build/app/outputs/apk/release/app-release.apk filter=lfs diff=lfs merge=lfs -text
+build/app/outputs/flutter-apk/*.apk filter=lfs diff=lfs merge=lfs -text
+build/app/intermediates/stripped_native_libs/**/*.so filter=lfs diff=lfs merge=lfs -text

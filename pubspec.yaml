@@ -1,0 +1,39 @@
+name: locator_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  geolocator: ^12.0.0
+  url_launcher: ^6.3.0
+  path_provider: ^2.1.4 
+  intl: ^0.19.0
+  android_intent_plus: ^5.1.0
+  media_store_plus: ^0.1.2
+  share_plus: ^10.0.0
+  flutter_background_service: ^5.0.6
+  flutter_background_service_android: ^6.2.4
+  permission_handler: ^11.3.1
+  flutter_local_notifications: ^17.2.1+2
+  wakelock_plus: ^1.2.7
+  flutter_launcher_icons: ^0.13.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/iconGeoApp.png"  # Asegúrate de que esta ruta sea correcta
